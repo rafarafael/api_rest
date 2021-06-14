@@ -30,5 +30,5 @@ module.exports = {
     {},
   ),
 
-  down: async () => { }
+  down: async () => { },
 };
